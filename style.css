@@ -1,0 +1,22 @@
+* {
+    text-decoration: none;    
+}
+
+.body02 {
+    background: rgb(248, 240, 216);
+    font-family: cursive;
+    padding: 10px;
+}
+
+.YourInformation {
+    color: coral;
+}
+
+.YourPizza {
+    color: coral;
+}
+
+.Reminder {
+    font-size: 13px;
+}
+
